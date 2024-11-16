@@ -1,4 +1,5 @@
 import Link from "next/link"
+//import fetchData from "./fetchData"
 
 async function fetchData(){
   const res = await fetch('https://jsonplaceholder.org/posts')
