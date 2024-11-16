@@ -1,3 +1,10 @@
+
+export const metadata = {
+  title: "About page",
+  description: "About us",
+  keyword: 'about, us, page'
+};
+
 export default function About() {
     return (
       <div>
